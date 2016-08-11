@@ -1,0 +1,116 @@
+.btnTab
+{
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+  font-weight: bold;
+ 
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.checkBox
+{
+	width:20px;
+	height:20px;
+}
+
+.lbl
+{
+	font-weight: bold;
+  font-size: 16px;
+}
+
+.cbtoggle {
+	margin-bottom:15px;
+}
+
+.panelBox
+{
+  width:400px;
+  height:400px;
+}
+
+.iconBig
+{
+  width:40px;
+  height:40px; 
+}
+
+.iconSmall
+{
+  width: 20px;
+  height: 20px;
+}
+
+.footer_tx
+{
+  margin-top:30px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.settingsPanel
+{
+  width:350px;
+}
+
+.noBorder
+{
+  border:0px;
+}
+
+.cbCount
+{
+  color:#2e6da4;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.lineBreak
+{
+  margin-top: 20px;
+}
+
+.dashed
+{
+  border-top:1px dashed #ddd;
+}
+
+.lineBreakBig
+{
+  margin-top: 21px;
+  float:right;
+}
+
+.btnFling
+{
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px; 
+  width: 10px;
+  height: 10px; 
+  margin-left:30px;
+}
